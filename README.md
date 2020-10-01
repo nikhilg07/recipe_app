@@ -1,16 +1,16 @@
 # recipe_app
 
-A new Flutter project.
+> This is a simple recipe app made with Flutter in Android Studio.
 
-## Getting Started
+## Getting the Sources
+First, fork the recipe_app repository so that you can make a pull request. Then, clone your fork locally: git clone https://github.com/[your-github-account]/recipe_app.git Occasionally you will want to merge changes in the upstream repository (the official code repo) with your fork.
+```
+cd recipe_app
+git checkout master
+git pull https://github.com/nikhilg07/recipe_app.git master
+```
+Manage any merge conflicts, commit them, and then push them to your fork.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+Just run the code in android studio.
+```
